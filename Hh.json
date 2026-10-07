@@ -2,10 +2,10 @@
   "name": "kk",
   "email": "kk@gmail.com",
   "password": "12345",
-  "retry": "true",
-  "logout": "true",
-  "expire": "50",
+  "retry": true,
+  "logout": true,
+  "expire": 50,
   "tEmail": "kkk@gmail.com",
   "tPassword": "12365",
-  "tExpire": "30"
+  "tExpire": 30
 }
