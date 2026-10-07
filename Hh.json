@@ -4,8 +4,8 @@
   "password": "12345",
   "retry": true,
   "logout": true,
-  "expire": 50,
+  "expire": 2,
   "tEmail": "kkk@gmail.com",
   "tPassword": "12365",
-  "tExpire": 30
+  "tExpire": 1
 }
